@@ -11,11 +11,13 @@ It can be safely assumed that if we have not published our warrant canary at our
 Here at VPNArchy we sign each canary with our respective GPG keys to help mitigate fraud. You can find our public keys within the ****keys*** directory within this repo. To verify our canary is legitimate as a unix user you can first save and import our public keys on your computer.
 
 ### Importing our public keys
+***Example***
 ```
-Example: gpg --import ~/Desktop/magg0t.pub
+gpg --import ~/Desktop/magg0t.pub
 ```
 
 ### Verify canary with keys
+***Example***
 ```
 gpg --verify /Users/JohnDoe/Downloads/canary-06012018.magg0t.txt
 ```
