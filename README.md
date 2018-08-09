@@ -1,6 +1,5 @@
 # warrant-canary
 ## This is the warrant canary log for [VPNArchy](https://vpnarchy.com). 
----
 ### What is a "warrant canary" ?
 A "warrant canary" is a colloquial term for a regularly published statement that a service provider has not received legal process that it would be prohibited from saying it had received, such as a national security letter or a warrant. In this repository we post our monthly warrant canary and archives can be found here as well.
 
